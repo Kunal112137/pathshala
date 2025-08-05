@@ -1,0 +1,37 @@
+/* General styling */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  background-color: blue;
+}
+
+h1, h2 {
+  font-weight: bold;
+}
+
+/* Volunteer form success message */
+#response-msg {
+  font-weight: 500;
+  transition: all 0.3s ease-in-out;
+}
+#impact img {
+    width: 50px;
+    margin-bottom: 10px;
+  }
+  
+  #impact h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  #impact p {
+    font-size: 1.1rem;
+  }
+  
+
+
+  .navbar-brand{
+    
+    text-align: center;
+  }
+  
